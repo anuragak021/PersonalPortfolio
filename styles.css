@@ -486,7 +486,7 @@ width: 40px;
 }
 
 #project1 {
-    background-image: url(./images/projects/brabus1.png);
+    background-image: url(./images/projects/mealmate.png);
 }
 
 #project2 {
@@ -500,7 +500,7 @@ width: 40px;
 
 #project4 {
     margin-left: 120px;
-    background-image: url(./images/projects/pc_parts.png);
+    background-image: url(./images/projects/brabus1.png);
 }
 
 @media (max-width:1300px) {
